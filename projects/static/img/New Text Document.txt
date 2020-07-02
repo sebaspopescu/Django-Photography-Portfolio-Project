@@ -1,0 +1,272 @@
+p1 = Project(
+	title='Golden hour',
+	description='Photoshoot at golden hour',
+	phtype='Digital photography',
+	image='img/1.jpg'
+)
+p1.save()
+
+p2 = Project(
+	title='Golden hour',
+	description='Photoshoot at golden hour',
+	phtype='Digital photography',
+	image='img/2.jpg'
+)
+p2.save()
+
+p3 = Project(
+	title='Portrait',
+	description='Close-up portrait',
+	phtype='Digital photography',
+	image='img/3.jpg'
+)
+p3.save()
+
+p4 = Project(
+	title='Summer dance',
+	description='Summer photoshoot',
+	phtype='Digital photography',
+	image='img/4.jpg'
+)
+p4.save()
+
+p5 = Project(
+	title='Summer dance',
+	description='Summer photoshoot',
+	phtype='Digital photography',
+	image='img/5.jpg'
+)
+p5.save()
+
+p6 = Project(
+	title='Dynamics',
+	description='Dynamic portrait',
+	phtype='Digital photography',
+	image='img/6.jpg'
+)
+p6.save()
+
+p7 = Project(
+	title='Dynamics',
+	description='Dynamic portrait',
+	phtype='Digital photography',
+	image='img/7.jpg'
+)
+p7.save()
+
+p8 = Project(
+	title='Summer',
+	description='Summer photoshoot',
+	phtype='Digital photography',
+	image='img/8.jpg'
+)
+p8.save()
+
+p9 = Project(
+	title='Summer',
+	description='Summer photoshoot',
+	phtype='Digital photography',
+	image='img/9.jpg'
+)
+p9.save()
+
+p10 = Project(
+	title='Butterflies',
+	description='Photoshoot',
+	phtype='Digital photography',
+	image='img/10.jpg'
+)
+p10.save()
+
+p11 = Project(
+	title='Vintage',
+	description='Vintage themed photoshoot',
+	phtype='Digital photography',
+	image='img/11.jpg'
+)
+p11.save()
+
+p12 = Project(
+	title='Dynamic',
+	description='Dynamic portrait',
+	phtype='Digital photography',
+	image='img/12.jpg'
+)
+p12.save()
+
+p13 = Project(
+	title='Dynamic',
+	description='Dynamic portrait',
+	phtype='Digital photography',
+	image='img/13.jpg'
+)
+p13.save()
+
+14 = Project(
+	title='Golden hour',
+	description='Photoshoot at golden hour',
+	phtype='Digital photography',
+	image='img/14.jpg'
+)
+p14.save()
+
+p15 = Project(
+	title='Portrait',
+	description='Close-up portrait',
+	phtype='Digital photography',
+	image='img/15.jpg'
+)
+p15.save()
+
+p16 = Project(
+	title='Portrait',
+	description='Red light portrait',
+	phtype='Digital photography',
+	image='img/16.jpg'
+)
+p16.save()
+
+p17 = Project(
+	title='Underground',
+	description='Photoshoot in underground',
+	phtype='Digital photography',
+	image='img/17.jpg'
+)
+p17.save()
+
+p18 = Project(
+	title='Golden hour',
+	description='Photoshoot at golden hour',
+	phtype='Digital photography',
+	image='img/18.jpg'
+)
+p18.save()
+
+p19 = Project(
+	title='Portrait',
+	description='Close-up portrait',
+	phtype='Digital photography',
+	image='img/19.jpg'
+)
+p19.save()
+
+p20 = Project(
+	title='Selfie on film',
+	description='Mirror',
+	phtype='Film photography',
+	image='img/20.jpg'
+)
+p20.save()
+
+p21 = Project(
+	title='A girl and a glass',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/21.jpg'
+)
+p21.save()
+
+p22 = Project(
+	title='doua beri goale pentru una plina',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/22.jpg'
+)
+p22.save()
+
+p23 = Project(
+	title='Rocknroll',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/23.jpg'
+)
+p23.save()
+
+p24 = Project(
+	title='Suc',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/24.jpg'
+)
+p24.save()
+
+p25 = Project(
+	title='Selfie on film',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/25.jpg'
+)
+p25.save()
+
+
+p26 = Project(
+	title='Portrait',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/26.jpg'
+)
+p26.save()
+
+p27 = Project(
+	title='Travel',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/27.jpg'
+)
+p27.save()
+
+p28 = Project(
+	title='Selfie on film',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/28.jpg'
+)
+p28.save()
+
+p29 = Project(
+	title='shoreline',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/29.jpg'
+)
+p29.save()
+
+p30 = Project(
+	title='Beach',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/30.jpg'
+)
+p30.save()
+
+p31 = Project(
+	title='Selfie on film',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/31.jpg'
+)
+p31.save()
+
+p32 = Project(
+	title='Grunge',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/32.jpg'
+)
+p32.save()
+
+p33 = Project(
+	title='Sea',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/33.jpg'
+)
+p33.save()
+
+p34 = Project(
+	title='Selfie on film',
+	description='Film photography',
+	phtype='Film photography',
+	image='img/34.jpg'
+)
+p34.save()
